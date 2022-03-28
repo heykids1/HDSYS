@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3cda049d-11aa-4e7b-8f4f-a2c85b470f07" name="Changes" comment="" />
+    <list default="true" id="3cda049d-11aa-4e7b-8f4f-a2c85b470f07" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HiddenDangerSys-server/src/main/resources/mapper/T01Mapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HiddenDangerSys-server/src/main/resources/mapper/T01Mapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HiddenDangerSys-server/target/classes/com/example/server/controller/T01Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/HiddenDangerSys-server/target/classes/com/example/server/controller/T01Controller.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,17 +101,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HiddenDangerSysApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="HiddenDangerSys-server" />
       <extension name="coverage">
@@ -162,6 +155,7 @@
       <workItem from="1648469703142" duration="93000" />
       <workItem from="1648470682050" duration="47000" />
       <workItem from="1648470751264" duration="676000" />
+      <workItem from="1648472375074" duration="33000" />
     </task>
     <servers />
   </component>

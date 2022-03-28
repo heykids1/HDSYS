@@ -2,7 +2,7 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.example.server.mapper.T01Mapper">
 
-    <!-- 通用查询映射结果 -->
+    <!-- 通用查询映射结果123 -->
     <resultMap id="BaseResultMap" type="com.example.server.pojo.T01">
         <id column="F0101" property="F0101" />
         <result column="F1201" property="F1201" />
