@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3cda049d-11aa-4e7b-8f4f-a2c85b470f07" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\maven-workspace" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.4-bin/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.4-bin\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="26gWRd99jAc3id7tIBBxxtb6G8z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.run.dashboard.notification" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java\workspace\HiddenDangerSys\HiddenDangerSys-server\src\main\resources\mapper" />
+      <recent name="F:\java\workspace\HiddenDangerSys\HiddenDangerSys-server\src\main\java\com\example\server" />
+      <recent name="F:\java\workspace\HiddenDangerSys\HiddenDangerSys-server\src\main\java\com\example\config" />
+      <recent name="F:\java\workspace\HiddenDangerSys\HiddenDangerSys-generator" />
+      <recent name="F:\java\workspace\HiddenDangerSys\HiddenDangerSys-server\src\main\java\com\example\config\jwt" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\java\workspace\HiddenDangerSys" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.server" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.server.controller" />
+      <recent name="com.example.config.security" />
+      <recent name="com.example.config.captcha" />
+      <recent name="com.example.config.mybatisPlus" />
+      <recent name="com.example.config.swagger" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HiddenDangerSysApplication (1)">
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.genreator.CodeGenerator" />
+      <module name="HiddenDangerSys-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.genreator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HiddenDangerSysApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="HiddenDangerSys-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.server.HiddenDangerSysApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HiddenDangerSysApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="HiddenDangerSys" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.hiddendangersys.HiddenDangerSysApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.HiddenDangerSysApplication (1)" />
+        <item itemvalue="Application.CodeGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cda049d-11aa-4e7b-8f4f-a2c85b470f07" name="Changes" comment="" />
+      <created>1647845705934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647845705934</updated>
+      <workItem from="1647845707720" duration="2666000" />
+      <workItem from="1647865472317" duration="20051000" />
+      <workItem from="1647950077331" duration="6275000" />
+      <workItem from="1647956814294" duration="628000" />
+      <workItem from="1648015584205" duration="7471000" />
+      <workItem from="1648023505724" duration="75000" />
+      <workItem from="1648025937819" duration="135000" />
+      <workItem from="1648026082460" duration="740000" />
+      <workItem from="1648026863439" duration="1622000" />
+      <workItem from="1648036710847" duration="55000" />
+      <workItem from="1648036810095" duration="262000" />
+      <workItem from="1648037969421" duration="2000" />
+      <workItem from="1648098950064" duration="649000" />
+      <workItem from="1648296519676" duration="1106000" />
+      <workItem from="1648360363152" duration="19340000" />
+      <workItem from="1648466823959" duration="2827000" />
+      <workItem from="1648469703142" duration="93000" />
+      <workItem from="1648470682050" duration="47000" />
+      <workItem from="1648470751264" duration="676000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="io.jsonwebtoken.SignatureException" package="io.jsonwebtoken" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

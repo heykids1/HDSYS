@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.server.mapper.T02Mapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.example.server.pojo.T02">
+        <id column="F0201" property="F0201" />
+        <result column="F0101" property="F0101" />
+        <result column="F0301" property="F0301" />
+        <result column="F0401" property="F0401" />
+        <result column="F0501" property="F0501" />
+        <result column="F0203" property="F0203" />
+        <result column="F0204" property="F0204" />
+        <result column="F0205" property="F0205" />
+        <result column="F0206" property="F0206" />
+        <result column="F0207" property="F0207" />
+        <result column="F0208" property="F0208" />
+        <result column="F0209" property="F0209" />
+        <result column="F0210" property="F0210" />
+        <result column="F0211" property="F0211" />
+        <result column="F0212" property="F0212" />
+        <result column="F0213" property="F0213" />
+        <result column="F0230" property="F0230" />
+        <result column="F0231" property="F0231" />
+        <result column="F0232" property="F0232" />
+        <result column="F0233" property="F0233" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        F0201, F0101, F0301, F0401, F0501, F0203, F0204, F0205, F0206, F0207, F0208, F0209, F0210, F0211, F0212, F0213, F0230, F0231, F0232, F0233
+    </sql>
+
+</mapper>

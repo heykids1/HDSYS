@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.server.mapper.T01Mapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.example.server.pojo.T01">
+        <id column="F0101" property="F0101" />
+        <result column="F1201" property="F1201" />
+        <result column="F0102" property="F0102" />
+        <result column="F0103" property="F0103" />
+        <result column="F0104" property="F0104" />
+        <result column="F0105" property="F0105" />
+        <result column="F0106" property="F0106" />
+        <result column="username" property="username" />
+        <result column="password" property="password" />
+        <result column="F0130" property="F0130" />
+        <result column="F0131" property="F0131" />
+        <result column="F0132" property="F0132" />
+        <result column="F0133" property="F0133" />
+        <result column="enabled" property="enabled" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        F0101, F1201, F0102, F0103, F0104, F0105, F0106, username, password, F0130, F0131, F0132, F0133, enabled
+    </sql>
+
+    <select id="LoginBywechat" parameterType="String" resultType="T01">
+
+        select * from t01 where F0104=#{F0104}
+
+    </select>
+
+
+
+</mapper>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.example.server.mapper.T07Mapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.example.server.pojo.T07">
+        <id column="F0701" property="F0701" />
+        <result column="F0601" property="F0601" />
+        <result column="F0101" property="F0101" />
+        <result column="F0702" property="F0702" />
+        <result column="F0730" property="F0730" />
+        <result column="F0731" property="F0731" />
+        <result column="F0732" property="F0732" />
+        <result column="F0733" property="F0733" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        F0701, F0601, F0101, F0702, F0730, F0731, F0732, F0733
+    </sql>
+
+</mapper>
